@@ -16,7 +16,7 @@ def main():
         
         print(f_name + ' ' + l_name, end = ' : ')
         
-        for e in e_mail:
+        for e in e_mail : # this loop is required to get the emails, since they are saved as list of tuples.
             print(e[1])
 
 
