@@ -1,7 +1,7 @@
 '''
-Prints a list of birthdays for the next seven days.
+Contacts
 
-NOTE: This script requires access to your contacts in order to work.
+NOTE: Requires access to _contacts_.
 '''
 
 import contacts
