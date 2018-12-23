@@ -1,2 +1,4 @@
 # Pythonista
-Scripts for Pythonista App
+
+Python scripts for IOS devices written in Pythonista development environment.
+
